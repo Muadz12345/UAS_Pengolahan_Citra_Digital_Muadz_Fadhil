@@ -1,5 +1,3 @@
-Berikut adalah README yang menjelaskan tentang kode aplikasi pengolahan gambar yang Anda berikan:
-
 ---
 
 # Image Enhancement Application
